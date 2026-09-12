@@ -199,8 +199,9 @@ A complete **Light / Dark** design system (colors, inputs, cards, bottom navigat
 
 **Mostafa Sholkamy** — Flutter Developer
 
-- GitHub: [@mostafasholkamy](#)
+- GitHub: [@MShulkamy](https://github.com/MShulkamy)
 - Portfolio: [mostafa-portfolio.pages.dev](https://mostafa-portfolio.pages.dev)
+- Repository: [github.com/MShulkamy/foodatlas](https://github.com/MShulkamy/foodatlas)
 
 ---
 
