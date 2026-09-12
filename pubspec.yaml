@@ -1,0 +1,49 @@
+name: recipe_app
+description: "Recipe & Grocery App - Clean Architecture (MVC) with Firebase Auth, Fake API, Local Storage, Light/Dark Theme."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+  # State Management (MVC - Controllers)
+  provider: ^6.1.2
+
+  # Networking (Fake API - dummyjson.com/recipes)
+  dio: ^5.4.3+1
+
+  # Firebase Auth
+  firebase_core: ^2.31.0
+  firebase_auth: ^4.19.5
+  cloud_firestore: ^4.17.5
+
+  # Local Storage
+  shared_preferences: ^2.2.3
+
+  # UI helpers
+  cached_network_image: ^3.3.1
+  google_fonts: ^6.2.1
+  flutter_svg: ^2.0.10+1
+  shimmer: ^3.0.0
+
+  # Utils
+  equatable: ^2.0.5
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
