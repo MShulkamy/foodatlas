@@ -15,3 +15,6 @@ ios/.symlinks/
 *.g.dart
 .agents/
 .DS_Store
+
+# Wrangler local state
+.wrangler/
