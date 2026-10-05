@@ -11,6 +11,7 @@ A **recipe discovery & grocery-cart** mobile app built with **Flutter**, followi
 [![Firebase](https://img.shields.io/badge/Firebase-Auth%20%2B%20Firestore-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com)
 [![Provider](https://img.shields.io/badge/State-Provider-7B61FF)](#)
 [![License](https://img.shields.io/badge/license-MIT-success)](#-license)
+[![Live demo](https://img.shields.io/badge/Live_demo-foodatlas--demo.pages.dev-2563EB)](https://foodatlas-demo.pages.dev)
 
 </div>
 
